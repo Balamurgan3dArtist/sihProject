@@ -1,0 +1,70 @@
+#box {
+  margin-top: 25px;
+  margin-bottom:60px ;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+#contain {
+    z-index: -10;
+    width: 200px;
+    height: 250px;
+    position: relative; 
+}
+#contain img {
+    width: 200px;
+    height: 250px;
+  object-fit: cover;
+  filter: brightness(0.7);
+  border-radius: 20px;
+}
+#card-name{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 10px;
+    top: 130px;
+}
+#card-offer{
+    font-size: 15px;
+    font-weight: 800;
+    position: absolute;
+    top: 20px;right: 10px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    width: 45px;
+}
+#card-des{
+    position: absolute;
+    top: 190px;left: 10px;
+    color: white;
+    text-align: left;
+    line-height: 15px;
+    padding: 5px;
+}
+#rating{
+    display: flex;
+    position: absolute;
+    top: 175px;left: 10px;
+    color: rgb(255, 242, 0);
+}
+#edit{
+    font-size: 20px;
+    font-weight: 800;
+    position: absolute;
+    top: 20px;left: 10px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px;
+    width: 40px;
+}
+#contain-edit{
+    width: 200px;
+    height: 250px;
+    position: relative; 
+}

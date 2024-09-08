@@ -1,0 +1,29 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .ml-72 {
+    margin-left: 18rem; 
+  }
+  
+  .flex-1 {
+    flex: 1; 
+  }
+  
+  .overflow-y-auto {
+    overflow-y: auto;
+    height: 100vh;
+  }
+  
+  .h-screen {
+    height: 100vh;
+  }
+  
+  .p-4 {
+    padding: 1rem;
+  }

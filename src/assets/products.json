@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Tomato",
+    "offer_price": 30,
+    "normal_price": 40,
+    "selling_price": 35,
+    "description": "Fresh and juicy tomatoes, perfect for salads and cooking.",
+    "image_url": "src/assets/images/Tomato.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Potato",
+    "offer_price": 20,
+    "normal_price": 25,
+    "selling_price": 22,
+    "description": "Versatile potatoes, ideal for a variety of dishes.",
+    "image_url": "src/assets/images/Potato.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Carrot",
+    "offer_price": 25,
+    "normal_price": 30,
+    "selling_price": 28,
+    "description": "Crunchy carrots, great for snacks and soups.",
+    "image_url": "src/assets/images/Carrot.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Onion",
+    "offer_price": 15,
+    "normal_price": 20,
+    "selling_price": 18,
+    "description": "Flavourful onions, essential for cooking.",
+    "image_url": "src/assets/images/Onion.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Cucumber",
+    "offer_price": 18,
+    "normal_price": 22,
+    "selling_price": 20,
+    "description": "Refreshing cucumbers, perfect for salads.",
+    "image_url": "src/assets/images/Cucumber.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "BellPepper",
+    "offer_price": 40,
+    "normal_price": 50,
+    "selling_price": 45,
+    "description": "Sweet and crunchy bell peppers, great for grilling.",
+    "image_url": "src/assets/images/BellPepper.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Broccoli",
+    "offer_price": 35,
+    "normal_price": 45,
+    "selling_price": 40,
+    "description": "Nutritious broccoli, excellent for steaming and stir-frying.",
+    "image_url": "src/assets/images/Broccoli.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Spinach",
+    "offer_price": 20,
+    "normal_price": 28,
+    "selling_price": 25,
+    "description": "Fresh spinach leaves, ideal for salads and smoothies.",
+    "image_url": "src/assets/images/Spinach.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Cauliflower",
+    "offer_price": 30,
+    "normal_price": 38,
+    "selling_price": 34,
+    "description": "Versatile cauliflower, great for roasting and soups.",
+    "image_url": "src/assets/images/Cauliflower.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "GreenBeans",
+    "offer_price": 25,
+    "normal_price": 32,
+    "selling_price": 28,
+    "description": "Crispy green beans, perfect for stir-fries and salads.",
+    "image_url": "src/assets/images/GreenBeans.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Pumpkin",
+    "offer_price": 50,
+    "normal_price": 60,
+    "selling_price": 55,
+    "description": "Sweet and hearty pumpkin, ideal for soups and pies.",
+    "image_url": "src/assets/images/Pumpkin.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Zucchini",
+    "offer_price": 30,
+    "normal_price": 38,
+    "selling_price": 33,
+    "description": "Tender zucchini, great for grilling and baking.",
+    "image_url": "src/assets/images/Zucchini.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Radish",
+    "offer_price": 20,
+    "normal_price": 25,
+    "selling_price": 22,
+    "description": "Crisp radishes, perfect for salads and garnishes.",
+    "image_url": "src/assets/images/Radish.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Corn",
+    "offer_price": 40,
+    "normal_price": 50,
+    "selling_price": 45,
+    "description": "Sweet corn on the cob, great for grilling and steaming.",
+    "image_url": "src/assets/images/Corn.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Beetroot",
+    "offer_price": 25,
+    "normal_price": 32,
+    "selling_price": 28,
+    "description": "Nutritious beetroots, excellent for salads and juices.",
+    "image_url": "src/assets/images/Beetroot.jpeg"
+  }
+]
